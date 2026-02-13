@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi 👋 I'm Navya Gupta
 
-<!--
-**navyagupta0709/navyagupta0709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech in Electronics & Communication Engineering  
+💡 Passionate about Machine Learning & Data Science  
 
-Here are some ideas to get you started:
+## 💻 Skills
+- Python
+- Pandas, NumPy
+- Scikit-Learn
+- Matplotlib
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- Mental Health Prediction using ML
+- Urban Sound Classification
+- Sales Forecasting Model
+
+## 📚 Currently Learning
+- Machine Learning
+- Deep Learning
+- NLP
+
+## 📫 Connect with me
+- LinkedIn: (https://www.linkedin.com/in/navya-7589262b6)
