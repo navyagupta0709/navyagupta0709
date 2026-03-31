@@ -1,4 +1,4 @@
-Hi 👋 I'm Navya Gupta
+Hi 👋 I'm Ekamveer singh
 
 🎓 B.Tech in Electronics & Communication Engineering  
 💡 Passionate about Machine Learning & Data Science  
