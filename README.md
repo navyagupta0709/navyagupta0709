@@ -1,4 +1,4 @@
-Hi 👋 I'm Navya Gupta
+Hi 👋 I'm Navya Gupta  
 
 🎓 B.Tech in Electronics & Communication Engineering  
 💡 Passionate about Machine Learning & Data Science  
